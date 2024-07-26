@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/app.dir/Proxy.cpp.o CMakeFiles/app.dir/RealSubject.cpp.o CMakeFiles/app.dir/main.cpp.o -o app 
