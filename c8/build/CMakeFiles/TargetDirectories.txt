@@ -1,0 +1,3 @@
+/home/wk/Desktop/open_judge/c8/build/CMakeFiles/xdoj.dir
+/home/wk/Desktop/open_judge/c8/build/CMakeFiles/edit_cache.dir
+/home/wk/Desktop/open_judge/c8/build/CMakeFiles/rebuild_cache.dir
