@@ -1,0 +1,3 @@
+/home/wk/Desktop/open_judge/test/build/CMakeFiles/test.dir
+/home/wk/Desktop/open_judge/test/build/CMakeFiles/edit_cache.dir
+/home/wk/Desktop/open_judge/test/build/CMakeFiles/rebuild_cache.dir
